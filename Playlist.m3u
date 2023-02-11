@@ -14,7 +14,7 @@ https://api54.tvgratis.live/streams/1246/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="DEPORTES", DIRECTV SPORTS AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jj9tsS1vmqcvLMmw7y4msg","kid":"p+Ccb0evV+mZt4nrVNMlXQ"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
+https://1057-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", tvg-group="DEPORTES", DIRECTV Sports (ARG)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
