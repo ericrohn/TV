@@ -16,6 +16,13 @@ https://api54.tvgratis.live/streams/1246/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvar.json
 https://dtvott-abc.akamaized.net/dash_live_1062/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXxVQwX.png", tvg-group="DEPORTES", DIRECTV Sports (ARG)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jj9tsS1vmqcvLMmw7y4msg","kid":"p+Ccb0evV+mZt4nrVNMlXQ"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDfNp51/dtvcl.png" tvg-group="DEPORTES", DIRECTV SPORTS CL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvcl.json
