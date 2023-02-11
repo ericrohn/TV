@@ -29,7 +29,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtH9dGV/dtcco.png" tvg-group="DEPORTES", DIRECTV SPORTS CO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/dtvco.json
-https://dtvott-abc.akamaized.net/dash_live_1059/manifest.mpd
+https://1059-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" tvg-group="DEPORTES", DIRECTV SPORTS UY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
