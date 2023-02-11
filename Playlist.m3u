@@ -491,10 +491,13 @@ https://dtvott-cbc.akamaized.net/dash_live_1012/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/discovery.json
 https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN AR 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espnar.json
 https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN AR 2
+https://1125-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI0Y2I0OWRmMzQxNDIzY2I1OTdiZjNlNzliNzhmMmE1MiI6IjExYWQ2OWQyYzg0ZjQxZGJiNTIwYWJmZTM4YjE5ZmU3In0=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN CL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
